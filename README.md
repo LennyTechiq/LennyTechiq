@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leonard Rongoma</h1>
-<h3 align="center">A passionate full-stack web developer and software engineer from Kenya</h3>
+<h3 align="center">A passionate backend developer and software engineer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lennytechiq&label=Profile%20views&color=0e75b6&style=flat" alt="lennytechiq" /> </p>
 
-- 🔭 I’m currently working on [Full Stack Recipe Project](https://lennytechiq.github.io/recipes/)
+- 🔭 I’m currently working on [***](***link)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
