@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lennytechiq&label=Profile%20views&color=0e75b6&style=flat" alt="lennytechiq" /> </p>
 
-- 🔭 I’m currently working on [Spring Boot Job Application]([link](https://github.com/LennyTechiq/spring-boot-job-application))
+- 🔭 I’m currently working on [Spring Boot Job Application]([[link](https://github.com/LennyTechiq/spring-boot-job-application)](https://github.com/LennyTechiq/spring-boot-job-application))
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
